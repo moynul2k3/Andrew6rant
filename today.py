@@ -1,3 +1,4 @@
+import utils.session
 from datetime import datetime
 from dateutil import relativedelta
 from xml.dom import minidom
