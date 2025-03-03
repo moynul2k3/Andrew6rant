@@ -1,3 +1,4 @@
+import utils.session
 import datetime
 from dateutil import relativedelta
 import requests
